@@ -1,14 +1,28 @@
 ![Image Alt Tags Input](image/Screenshot_3.png)
 
-# Tag Input Component React js
+# Tag Input Component (React js)
 
 Tag Input Component is a React component that allows users to add and remove tags.
+
+### Features
+ 1. Add tags by pressing Enter or separating them with commas.
+2. Each tag is displayed as a removable item.
+3. Remove individual tags by clicking the 'x' icon.
+4. Clear all tags with the "Remove All" button.
+
+### How It Works
+The TagInputComponent leverages React's state management to dynamically update and display tags as they are added or removed. It listens for user interactions, allowing smooth tag management in a user-friendly manner.
+
+### Contributing
+Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## Installation
 
 1. Clone the repository or copy the code.
 2. Make sure you have React installed in your project.
 3. Copy the `TagInputComponent` code into your React application.
+
+
 
 ## Usage
 
